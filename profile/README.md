@@ -25,3 +25,5 @@ We welcome contributions! Please follow our [Contribution Guidelines](CONTRIBUTI
 ## Contact
 
 For inquiries, reach out to [vendikar.nibiru@gmail.com](mailto:vendikar.nibiru@gmail.com). We look forward to hearing from you!
+
+---
